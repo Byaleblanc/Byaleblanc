@@ -7,6 +7,8 @@
 - 📫 How to reach me: bianca.oliveira12@escola.pr.gov.br
    
    I AM LEARNING
+
+
 [![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://editor.p5js.org/)
 
 
